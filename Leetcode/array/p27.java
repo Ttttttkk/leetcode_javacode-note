@@ -1,4 +1,4 @@
-package Leetcode.array;
+package array;
 
 public class p27 {
     //移除元素 ->双指针
